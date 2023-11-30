@@ -1,0 +1,17 @@
+.banner{
+    height: 450px;
+    object-fit: contain;
+    /* height: 100%; */
+}
+.bannerContent{
+    padding-top: 250px;
+    margin-left: 50px;
+    height: 200px;
+}
+.title{
+    font-size: 3rem;
+}
+.desc{
+    width: 45rem;
+    line-height: 1.3;
+}
